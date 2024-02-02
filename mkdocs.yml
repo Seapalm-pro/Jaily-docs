@@ -1,0 +1,16 @@
+site_name: Jaily docs
+theme:
+  name: material
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+nav:
+  - index.md
+  - install.md
+  - workspace_settings.md
+  - users.md
+  - bans.md

@@ -1,0 +1,13 @@
+:root {
+    --md-default-bg-color: #1c1c1c;
+    --md-default-fg-color: white;
+    --md-typeset-a-color: white;
+    --md-default-fg-color--light: white;
+    --md-code-bg-color: #2a2a2a;
+    --md-code-fg-color: white;
+    --md-typeset-a-color: #4d62db;
+}
+
+code {
+    border-radius: 8px !important;
+}
