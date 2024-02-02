@@ -15,6 +15,12 @@ Confirm the ban once the form is completed to enforce it.
 
 ![Ban Form](img/bans_form.png)
 
+## Search for a banned player
+
+Here you can search for a banned player using his ID
+
+![Search user](img/search_user.png)
+
 ## Ban List
 
 The ban list displays currently banned players with the following details:
